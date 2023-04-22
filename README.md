@@ -188,12 +188,12 @@ print(dechiffrement('10110010', '46027315', '2013', '1110', '0010'))
 
 ### Génration des clés
 
-![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/generercle.PNG)
+![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/result1.PNG)
 
 ### Chiffrement
 
-![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/chiffrement.PNG)
+![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/result2.PNG)
 
 ### Déchiffrement
 
-![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/dechiffrement.PNG)
+![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/result3.PNG)
