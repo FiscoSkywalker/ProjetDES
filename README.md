@@ -6,4 +6,21 @@ Nous avons au prélable écrit des fonctions qui nous ont permis d'éffectuer ce
 
 voici les codes des différentes fonctions
 
+### Fonction permutation
+
+
+```Python
+def permutation(cle, perm):
+    if len(cle) != len(perm) :
+        return -1
+    
+    clePermute = ""
+    for car in perm:
+        index = int(car)
+        clePermute = clePermute + cle[index]
+        
+    
+    return clePermute
+```
+
 ![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/permutation.PNG)
