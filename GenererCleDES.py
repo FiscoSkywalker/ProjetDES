@@ -15,9 +15,7 @@ def GenererCles(cle, fonctionPermutation):
     
     return "(" + k1 + ", " + k2 + ")"
 
-result = GenererCles("01101101", "65274130")
-
-print(result)
+print(GenererCles("01101101", "65274130"))
 
 
 
