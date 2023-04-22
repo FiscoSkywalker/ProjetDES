@@ -6,4 +6,4 @@ Nous avons au prélable écrit des fonctions qui nous ont permis d'éffectuer ce
 
 voici les codes des différentes fonctions
 
-![Now Playing](images/permutation.png)
+![alt text](https://github.com/FiscoSkywalker/ProjetDES/blob/master/images/permutation.PNG)
